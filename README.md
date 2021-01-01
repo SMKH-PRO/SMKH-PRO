@@ -40,38 +40,6 @@ I am a Fullstack developer,
 
 
 
- ---
-<!-- DEVICES-LIST:START -->
-
-<details>
-
- <summary>
-     <h2>   <img width="20" src="https://emojis.slackmojis.com/emojis/images/1566534036/6234/laptopfire.png?1566534036"> Devices I USE/CODE ON 
-      </h2>
- </summary>
-
-<a href="https://support.hp.com/us-en/document/c05562595">
-<figure >
- <img  width="350" src="https://i.postimg.cc/05tRKx6Y/windows-copy.png" />
-<br/>
-  <figcaption style="text-align:center">HP OMEN 15, WINDOWS 10 PRO</figcaption>
-</figure>
-</a>
-
-<br/>
-
-<a href="https://www.apple.com/macbook-pro-16/specs/">
-<figure >
- <img width="350" src="https://i.postimg.cc/3J74NXv4/macbook.png" />
- <br/>
-  <figcaption>MACBOOK PRO 16 INCH, MACOS BIGSUR</figcaption>
-</figure>
-</a>
-</details>
-
-<!-- DEVICE-LIST:END -->
-
-
 
 
 ---
@@ -112,6 +80,41 @@ I am a Fullstack developer,
 <!--END_SECTION:activity-->
 
 <!-- </details> -->
+
+ ---
+<!-- DEVICES-LIST:START -->
+
+<details>
+
+ <summary>
+     <h2>   
+     <img width="20" src="https://emojis.slackmojis.com/emojis/images/1566534036/6234/laptopfire.png?1566534036"> DEVICES I USE/CODE ON 
+      </h2>
+ </summary>
+
+<a href="https://support.hp.com/us-en/document/c05562595">
+<figure >
+ <img  width="350" src="https://i.postimg.cc/05tRKx6Y/windows-copy.png" />
+<br/>
+  <figcaption style="text-align:center">HP OMEN 15, WINDOWS 10 PRO</figcaption>
+</figure>
+</a>
+
+<br/>
+
+<a href="https://www.apple.com/macbook-pro-16/specs/">
+<figure >
+ <img width="350" src="https://i.postimg.cc/3J74NXv4/macbook.png" />
+ <br/>
+  <figcaption>MACBOOK PRO 16 INCH, MACOS BIGSUR</figcaption>
+</figure>
+</a>
+</details>
+
+<!-- DEVICE-LIST:END -->
+
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
