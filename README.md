@@ -81,7 +81,6 @@ I am a Fullstack developer,
 
 <!-- </details> -->
 
- ---
 <!-- DEVICES-LIST:START -->
 
 <details>
@@ -113,6 +112,7 @@ I am a Fullstack developer,
 
 <!-- DEVICE-LIST:END -->
 
+ ---
 
 
 
