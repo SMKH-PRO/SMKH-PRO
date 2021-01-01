@@ -86,9 +86,9 @@ I am a Fullstack developer,
 <details>
 
  <summary>
-     <h2>   
+     <b>   
      <img width="20" src="https://emojis.slackmojis.com/emojis/images/1566534036/6234/laptopfire.png?1566534036"> DEVICES I USE/CODE ON 
-      </h2>
+      </b>
  </summary>
 
 <a href="https://support.hp.com/us-en/document/c05562595">
