@@ -120,6 +120,12 @@ I am a Fullstack developer,
   <summary>:zap: GitHub Stats</summary>
 
  [![Kashan's github stats](https://github-readme-stats.vercel.app/api?username=SMKH-PRO&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)][website]
+ 
+ 
+  [![Kashan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smkh-pro&hide=css,html&show_icons=true&hide_border=true)][website]
+ 
+ 
+ 
 </details>
 
 [website]: https://kashanhaider.com
