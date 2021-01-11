@@ -21,6 +21,9 @@ I am a Fullstack developer,
 ---
 
 
+ [![Kashan's github stats](https://github.com/SMKH-PRO/SMKH-PRO/blob/master/images/stat.svg)][website]
+ 
+<br />
 
 ### Connect with me:
 
@@ -35,10 +38,7 @@ I am a Fullstack developer,
 <br/>
 
 
- [![Kashan's github stats](https://wakatime.com/share/@SMKH/edf5da27-f622-4274-a898-599e31d523d8.svg)][website]
- 
-<br />
-<br />
+
 
 
 
