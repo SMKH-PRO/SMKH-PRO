@@ -1,8 +1,13 @@
 name: Update README with my latest coding stats
 
 on:
+  workflow_dispatch:
+    inputs:
+      git-ref:
+        required: false
   push:
-    branches: [ master ]
+    branches: 
+    - master 
   schedule:
     - cron: '30 5 * * *' 
 
