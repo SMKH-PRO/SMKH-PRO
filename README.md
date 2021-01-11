@@ -32,12 +32,13 @@ I am a Fullstack developer,
 [<img align="left" alt="SMKH-PRO | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr]
 
 <br />
+<br/>
 
 
+[<img align="left" alt="SMKH-PRO | Last 7 days coding stats" height="40px" width="40px" src="https://github.com/SMKH-PRO/SMKH-PRO/blob/master/codeStats.svg" />][fiverr]
 
 <br />
 <br />
-
 
 
 
