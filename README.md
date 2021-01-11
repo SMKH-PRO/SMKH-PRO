@@ -35,8 +35,8 @@ I am a Fullstack developer,
 <br/>
 
 
-[<img align="left" alt="SMKH-PRO | Last 7 days coding stats" height="40px" width="40px" src="https://wakatime.com/share/@SMKH/edf5da27-f622-4274-a898-599e31d523d8.svg" />][fiverr]
-
+ [![Kashan's github stats](https://wakatime.com/share/@SMKH/edf5da27-f622-4274-a898-599e31d523d8.svg)][website]
+ 
 <br />
 <br />
 
