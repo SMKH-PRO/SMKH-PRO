@@ -12,11 +12,17 @@ on:
     - cron: '30 5 * * *' 
 
 jobs:
-  update-Readme:
-    name: Automatically update my README  
+  update-readme:
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
+          # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Automatic github token
+          GITHUB_TOKEN: ${{ github.token }}
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "master"
+          # Manual Commit messages - write your own messages here
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
