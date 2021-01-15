@@ -64,7 +64,7 @@ I am a Fullstack developer,
 
 <!-- YOUTUBE:START -->
 - [HOW TO SET ANDROID ENVIRONMENT VARIABLES ON Macbook, iMac or MacOS](https://www.youtube.com/watch?v=tbLAHKhjjI4)
-- [Reduce/Optimize React Native App Size](https://www.youtube.com/watch?v=W7boJmA7xJA&t=74s&ab_channel=S.M.K.H)
+<!--- - [Reduce/Optimize React Native App Size](https://www.youtube.com/watch?v=W7boJmA7xJA&t=74s&ab_channel=S.M.K.H) -->
 <!-- YOUTUBE:END -->
 
 <img width="20" src="https://emojis.slackmojis.com/emojis/images/1598816040/10345/arrow-right.gif?1598816040">&nbsp;&nbsp;&nbsp;&nbsp;[more videos...][youtube]
