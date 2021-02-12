@@ -49,7 +49,6 @@ I am a Fullstack developer,
 <!-- BLOG-POST-LIST:START -->
 
 - [GET VISITOR’S IP ADDRESS IN JAVASCRIPTIPT](https://kashanhaider.com/get-visitors-ip-address-in-javascript/)
-- [How to Convert Decimal to Binary and Binary to Decimal](https://kashanhaider.com/convert-binary-to-decimal-and-decimal-to-binary/)
 - [OPTIONAL CHAINING OPERATOR IN JAVASCRIPT](https://kashanhaider.com/javascript-optional-chaining-operator/)
 - [Nullish Coalescing operator In Javascript ES-2020 Update](https://kashanhaider.com/nullish-coalescing-operator-in-javascript/)
 - [HOW TO SET ANDROID ENVIRONMENTAL VARIABLES ON MACOS](https://kashanhaider.com/set-up-android-environment-variables-on-macos/)
