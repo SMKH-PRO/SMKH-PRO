@@ -20,11 +20,11 @@ I am a Fullstack developer,
 
 ---
 
-<!--
+
 #### WHERE DID I SPENT LAST 7 DAYS?
 
  [![Kashan's github stats](https://github.com/SMKH-PRO/SMKH-PRO/blob/master/images/stat.svg)][website]
--->
+ 
  <br/>
  
  ### Connect with me:
