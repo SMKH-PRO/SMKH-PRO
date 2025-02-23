@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=kashanhaider.com&style=for-the-badge&url=https%3A%2F%2FKashanHaider.com)][website]
 
 
-I am a Fullstack developer, 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1605231318/11309/eyeroll.gif?1605231318" /> I’m looking for a better opportunity to work with passionate developers/teams around the globe (I prefer remote work).
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2023 Goals: Focus skills growth
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
+A full-stack developer who loves turning ideas into sleek, high-performance apps. Whether it's web, mobile, or AI-powered magic, I'm all about clean code, smooth user experiences, and pushing the limits of what's possible. Coding isn’t just my job—it’s my passion. Always learning, always building, and always up for exciting new challenges! 🚀
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> Always leveling up my skills and building smarter software!
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> Figuring out cool ways to bring generative AI into mobile apps for next-level user experiences!
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1605231318/11309/eyeroll.gif?1605231318" /> Open to joining innovative remote teams where I can build, learn, and make an impact!
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2025 Goals: Breaking into AI in 2025—exploring generative AI to craft applications that feel alive!
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" /> Fun fact: I write code for fun, and people accidentally started paying me for it. Still waiting for them to realize! 😂
 
 ### TECHNOLOGIES I USE OR CODE WITH:
 
@@ -94,13 +94,7 @@ View more on my  <a href="https://linkedin.com/in/kashanhaider" target="_blank" 
       </b>
  </summary>
 
-<a href="https://support.hp.com/us-en/document/c05562595">
-<figure >
- <img  width="350" src="https://i.postimg.cc/05tRKx6Y/windows-copy.png" />
-<br/>
-  <figcaption style="text-align:center">HP OMEN 15, WINDOWS 10 PRO</figcaption>
-</figure>
-</a>
+
 
 <br/>
 
