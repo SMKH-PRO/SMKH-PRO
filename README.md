@@ -95,11 +95,12 @@ View more on my  <a href="https://linkedin.com/in/kashanhaider" target="_blank" 
 
 <br/>
 
-<a href="https://www.apple.com/macbook-pro-16/specs/">
+<a href="https://support.apple.com/en-us/121554">
 <figure >
- <img width="350" src="https://i.postimg.cc/3J74NXv4/macbook.png" />
+ <img width="350" src="https://github.com/user-attachments/assets/bc9ac0d6-5c1d-43dc-bab9-39bf5466d8fc" />
+
  <br/>
-  <figcaption>MACBOOK PRO 16 INCH, MACOS BIGSUR</figcaption>
+  <figcaption>MACBOOK PRO 16 INCH, M4 MAX</figcaption>
 </figure>
 </a>
 </details>
